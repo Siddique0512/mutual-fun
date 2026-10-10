@@ -1,0 +1,6 @@
+{
+  "name": "The Mutual Fun — Zoom Into The System",
+  "description": "An infinite camera journey through The Mutual Fun ecosystem, exploring on-chain Seats, Briefcases, 5 Funds, weekly voting, and autonomous mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
